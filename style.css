@@ -1,0 +1,17 @@
+.body_background {
+    background-image: ("superhero_image.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: rgb(66, 23, 255);
+    border-style: ridge;
+}
+
+#head_info {
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
