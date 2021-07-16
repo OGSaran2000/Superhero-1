@@ -53,3 +53,4 @@ function my_keydown(e) {
         new_image("spiderman_body.png");
         console.log("r")
     }
+}
