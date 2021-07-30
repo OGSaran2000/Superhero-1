@@ -53,4 +53,20 @@ function my_keydown(e) {
         new_image("spiderman_body.png");
         console.log("r")
     }
+    if (keypressed == '38') {
+        up();
+        console.log("up")
+    }
+    if (keypressed == '40') {
+        down();
+        console.log("down")
+    }
+    if (keypressed == '37') {
+        left();
+        console.log("left")
+    }
+    if (keypressed == '39') {
+        right();
+        console.log("right")
+    }
 }
